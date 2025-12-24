@@ -1,0 +1,8 @@
+{
+  "name": "SkyChat AI",
+  "description": "A modern, light-blue themed messaging application featuring real-time chat simulations, group management, stories, and an integrated Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
